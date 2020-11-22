@@ -1,5 +1,5 @@
 
-mlr3pipelines <img src="man/figures/logo.png" align="right" />
+Dataflow Programming for Machine Learning in R.
 ==============================================================
 
 Package website: [release](https://mlr3pipelines.mlr-org.com/) \|
